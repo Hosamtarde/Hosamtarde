@@ -1,25 +1,25 @@
 <!-- ============================ HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:6366f1,100:a855f7&height=230&section=header&text=Hosam%20Tarade&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20%E2%9A%A1%20NestJS%20%E2%80%A2%20TypeScript%20%E2%80%A2%20PostgreSQL&descAlignY=60&descSize=18&stroke=ffffff&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=200&section=header&text=Hosam%20Tarade&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer&descSize=20&descAlignY=56&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://hosamtarade.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=45&lines=%24+whoami+%E2%86%92+Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;I+build+the+part+nobody+sees+%F0%9F%91%80;APIs+%E2%80%A2+Data+Models+%E2%80%A2+Auth+%E2%80%A2+RBAC;Two+buyers%2C+one+unit+left%2C+one+winner+%E2%9A%A1;Backend+Intern+%40+Wahj+%E2%80%94+Open+to+work+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=NestJS+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Prisma;I+build+APIs%2C+data+models+%26+auth+that+hold+up;Backend+Developer+Intern+%40+Wahj" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://hosamtarade.com"><img src="https://img.shields.io/badge/🌐_Portfolio-hosamtarade.com-0ea5e9?style=for-the-badge&labelColor=0f172a" /></a>
-  <a href="https://www.linkedin.com/in/hosam-tarade-370807332/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" /></a>
-  <a href="mailto:tardehosam@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" /></a>
-  <a href="https://drive.google.com/file/d/15l-bx26RzTAuw7uODagYdNGhM2I2RNa5/view?usp=drivesdk"><img src="https://img.shields.io/badge/📄_Resume-Download-a855f7?style=for-the-badge&labelColor=0f172a" /></a>
+  <a href="https://hosamtarade.com"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hosam-tarade-370807332/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tardehosam@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/15l-bx26RzTAuw7uODagYdNGhM2I2RNa5/view"><img src="https://img.shields.io/badge/Resume-a855f7?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hosamtarde&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/📍-Hebron,_Palestine_🇵🇸-f59e0b?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Open_to_Work-22c55e?style=flat-square&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hebron,_Palestine-334155?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Hosamtarde&style=flat-square&color=6366f1&label=Profile+Views" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
