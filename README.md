@@ -265,6 +265,13 @@ async refresh(userId: string, token: string) {
   <img src="https://streak-stats.demolab.com?user=Hosamtarde&hide_border=true&background=0F172A&ring=A855F7&fire=0EA5E9&currStreakLabel=A855F7&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hosamtarde/Hosamtarde/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Hosamtarde/Hosamtarde/output/github-snake.svg" alt="snake animation" />
+  </picture>
+</p>
+
 <!-- ============================ FOOTER ============================ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Have+a+backend+that+needs+building%3F;Or+a+team+that+needs+a+hand%3F;Let's+talk+%F0%9F%93%AB+tardehosam%40gmail.com" />
