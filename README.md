@@ -10,7 +10,7 @@
   <a href="https://hosamtarade.com"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hosam-tarade-370807332/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tardehosam@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/15l-bx26RzTAuw7uODagYdNGhM2I2RNa5/view"><img src="https://img.shields.io/badge/Resume-6366f1?style=flat-square&logo=googledrive&logoColor=white" /></a>
+  <a href="[https://drive.google.com/file/d/15l-bx26RzTAuw7uODagYdNGhM2I2RNa5/view](https://drive.google.com/drive/home)"><img src="https://img.shields.io/badge/Resume-6366f1?style=flat-square&logo=googledrive&logoColor=white" /></a>
 </p>
 
 ---
