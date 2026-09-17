@@ -1,268 +1,60 @@
-<!-- ============================ HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=200&section=header&text=Hosam%20Tarade&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer&descSize=20&descAlignY=56&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Hosam%20Tarade&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://hosamtarade.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=NestJS+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Prisma;I+build+APIs%2C+data+models+%26+auth+that+hold+up;Backend+Developer+Intern+%40+Wahj" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=NestJS+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL;Building+reliable+APIs+and+backend+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://hosamtarade.com"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hosam-tarade-370807332/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tardehosam@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/15l-bx26RzTAuw7uODagYdNGhM2I2RNa5/view"><img src="https://img.shields.io/badge/Resume-a855f7?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="https://hosamtarade.com"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hosam-tarade-370807332/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tardehosam@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/15l-bx26RzTAuw7uODagYdNGhM2I2RNa5/view"><img src="https://img.shields.io/badge/Resume-6366f1?style=flat-square&logo=googledrive&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_to_Work-22c55e?style=flat-square&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hebron,_Palestine-334155?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=Hosamtarde&style=flat-square&color=6366f1&label=Profile+Views" />
+---
+
+### 👋 About Me
+
+Backend Developer from **Hebron, Palestine**, currently a **Backend Developer Intern at Wahj**.
+I build REST APIs with **NestJS, TypeScript, and PostgreSQL**, with a focus on clean architecture, secure authentication, and data that stays consistent under real-world load.
+
+- 💼 Backend Intern @ **Wahj** — NestJS, Prisma, PostgreSQL
+- 🎓 Computer Science — Palestine Polytechnic University
+- 🏆 IEEE-Xtreme 18.0 — ranked 1323 / 8,784
+- 🎯 Open to junior backend roles
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,postgres,mysql,prisma,docker,git,postman,php&theme=dark" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+---
 
-<!-- ============================ ABOUT ============================ -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> About Me
+### 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="58%" valign="top">
+**📦 [Multi-Branch Inventory System](https://github.com/Hosamtarde/Distributed-Multi-Branch-Inventory-Management-System)**
+Inventory backend for a retail chain with per-branch stock and one online store. Uses transactions with pessimistic locking to prevent overselling under concurrent requests.
+`NestJS` `TypeScript` `PostgreSQL` `TypeORM` `JWT` `Docker`
 
-```ts
-class HosamTarade extends BackendDeveloper {
-  role       = "Backend Developer Intern @ Wahj";
-  education  = "BSc Computer Science — PPU";
-  location   = "Hebron, Palestine 🇵🇸";
+**🧭 [Qadem Platform](https://github.com/Hosamtarde/job-platform)**
+Job and internship platform where companies post roles and candidates track their applications. Secure auth with bcrypt-hashed refresh tokens.
+`NestJS` `TypeScript` `PostgreSQL` `Next.js` `Docker`
 
-  stack      = ["NestJS", "TypeScript", "PostgreSQL", "Prisma"];
-  focus      = ["REST APIs", "Auth & RBAC", "Concurrency"];
-  principles = ["Clean Architecture", "SOLID", "Migrations"];
+**🧑‍💼 HR Management System** — *Graduation Project*
+HR platform for SMEs covering attendance, leave requests, performance, and payroll, with role-based access control.
+`NestJS` `TypeScript` `MySQL` `TypeORM` `Swagger`
 
-  motto() {
-    return "Transactions & constraints > clever code";
-  }
-}
-```
+---
 
-</td>
-<td width="42%" valign="top">
-
-🧠 I spend more time in the **schema** than the style sheet.
-
-🔐 I care about what happens **under pressure**: concurrent writes, leaked tokens, brute-force logins.
-
-🏗️ Currently building **3 NestJS systems** — including one that holds its numbers under real concurrency.
-
-🎯 **Open to junior backend roles** & collaboration.
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- ============================ STACK ============================ -->
-## ⚙️ Tech Arsenal
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,postgres,mysql,prisma,docker,git,github,postman&theme=dark&perline=10" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,py,cs,cpp,nextjs,react,unity,vscode&theme=dark&perline=10" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/RBAC-6366f1?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-0ea5e9?style=for-the-badge&logo=blueprint&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOLID-a855f7?style=for-the-badge&logo=codefactor&logoColor=white" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<!-- ============================ PROJECTS ============================ -->
-## 🚀 Featured Projects
-
-<!-- ---------- Project 1 ---------- -->
-<h3 align="center">📦 Distributed Multi-Branch Inventory Management System</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Core_Modules_Done-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Oversells_Under_Concurrency-0-ef4444?style=flat-square" />
-  <img src="https://img.shields.io/badge/Roles-3-6366f1?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=800&color=22C55E&center=true&vCenter=true&width=560&lines=Request+A%3A+buy+last+unit+%E2%86%92+%E2%9C%85+200+OK;Request+B%3A+buy+last+unit+%E2%86%92+%E2%9D%8C+400+Insufficient+stock;Pessimistic+lock+%E2%86%92+zero+oversells" />
-</p>
-
-> A backend for a retail chain where **every branch holds its own stock** of every product variant, and **one online store sells across all of them**.
-> The hard part isn't the CRUD — it's what happens when **two customers buy the last unit in the same millisecond**.
-
-- 🔒 Stock adjustments run inside a **transaction with a pessimistic write lock** — the second request waits, re-reads, and is rejected.
-- 🧪 **Proven, not assumed:** a script fires two identical requests via `Promise.all` — exactly one succeeds.
-- 👥 **3 roles** — Admin, Branch Manager, Staff — gate every endpoint that moves inventory.
-
-<details>
-<summary><b>⚡ Show me the concurrency-safe core</b></summary>
-<br/>
-
-```ts
-// two buyers, one unit left, one winner
-return this.dataSource.transaction(async (m) => {
-  const record = await m.findOne(Inventory, {
-    where: { id },
-    lock: { mode: 'pessimistic_write' },
-  });
-
-  if (record.quantity + change < 0)
-    throw new BadRequestException('Insufficient stock in this branch');
-
-  record.quantity += change;
-  return m.save(record);
-});
-```
-</details>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,ts,postgres,docker&theme=dark" />
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-  <br/><br/>
-  <a href="https://github.com/Hosamtarde/Distributed-Multi-Branch-Inventory-Management-System">
-    <img src="https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- ---------- Project 2 ---------- -->
-<h3 align="center">🧭 Qadem Platform</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-In_Development-f59e0b?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Full_Stack-0ea5e9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tokens-bcrypt_Hashed-a855f7?style=flat-square" />
-</p>
-
-> A **job & internship platform** where companies post roles and candidates apply and track where their application stands.
-
-- 👥 **Two account types, one auth system** — each sees a different half of the product.
-- 🔄 Applications move through a fixed lifecycle: **Submitted → Reviewing → Decision**.
-- 🛡️ **Refresh tokens are hashed with bcrypt** before touching the DB — a leaked dump can't be replayed. Logout revokes **every issued token at once**.
-
-<details>
-<summary><b>🔐 Show me the token refresh flow</b></summary>
-<br/>
-
-```ts
-// a refresh token is never stored in the clear
-async refresh(userId: string, token: string) {
-  const user = await this.users.findByIdWithRefreshToken(userId);
-
-  if (!user?.hashedRefreshToken)
-    throw new UnauthorizedException('Access denied');
-
-  const matches = await bcrypt.compare(token, user.hashedRefreshToken);
-  if (!matches)
-    throw new UnauthorizedException('Access denied');
-
-  return this.issueTokens(user);
-}
-```
-</details>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,ts,postgres,nextjs,react,docker&theme=dark" />
-  <br/><br/>
-  <a href="https://github.com/Hosamtarde/job-platform">
-    <img src="https://img.shields.io/badge/View_Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- ---------- Project 3 ---------- -->
-<h3 align="center">🧑‍💼 Human Resource Management System</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓-Graduation_Project-6366f1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Roles-4_Inherited-0ea5e9?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔒-Private_Repo-64748b?style=flat-square" />
-</p>
-
-> An HR system for **small & medium companies** that can't justify Workday or SAP pricing — from **job application → attendance → leave & loans → tasks → performance → payroll**.
-
-- 👥 Roles inherit upward: **Applicant → Employee → Manager → HR Admin**.
-- 🚦 Login throttled to **5 attempts / minute**; every sensitive endpoint is guarded by the role that owns it.
-- 🧩 My part: **schema, migrations, auth, and the request approval flow** — built with 2 teammates under Dr. Hani Salah at PPU.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,ts,mysql,docker&theme=dark" />
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-  <br/><sub><i>Available on request</i></sub>
-</p>
-
-<details>
-<summary><b>🎓 Earlier projects</b></summary>
-<br/>
-
-| Project | Description | Tech |
-|---|---|---|
-| 📚 **Student Course Registration** | Enrolment portal with auth, course management & AJAX updates | PHP · MySQL · JS |
-| 🎮 [**2D Platformer**](https://github.com/Hosamtarde/MyUnityGame) | Side-scroller with component-based movement & interaction logic | C# · Unity |
-| 📖 **Library Management** | Console app for cataloguing and lending | Python |
-
-</details>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<!-- ============================ EXPERIENCE ============================ -->
-## 💼 Experience
-
-| 🗓️ Period | 🏢 Role | 📝 Highlights |
-|---|---|---|
-| **Jul 2026 – Now** <br/> 🟢 | **Backend Developer Intern** <br/> Wahj · Hebron | NestJS & TypeScript REST APIs · PostgreSQL + Prisma · Auth & authorization · Code review & Clean Architecture |
-| **Feb – Aug 2025** | **Software Development Trainee** <br/> Gaza Sky Geeks | Python · Data Structures · Algorithms · OOP · Peer review |
-| **Jul – Aug 2025** | **Game Development Trainee** <br/> Google DSC · Zarqa Univ. | C# & Unity · Gameplay mechanics · Interactive systems |
-
-<!-- ============================ HOW I WORK ============================ -->
-## 🛠️ How I Work
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🗃️_Migrations-Versioned,_never_auto--sync-0ea5e9?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/🛡️_RBAC-Guards_on_every_endpoint-6366f1?style=for-the-badge&labelColor=0f172a" />
-  <br/>
-  <img src="https://img.shields.io/badge/✅_DTOs-Whitelist_validation-22c55e?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/📖_Swagger-Live_at_/api/docs-85EA2D?style=for-the-badge&labelColor=0f172a" />
-  <br/>
-  <img src="https://img.shields.io/badge/🚦_Security-Helmet_+_Rate_Limiting-ef4444?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/🔀_Git-PRs_+_Conventional_Commits-a855f7?style=for-the-badge&labelColor=0f172a" />
-</p>
-
-<!-- ============================ ACHIEVEMENTS ============================ -->
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IEEE--Xtreme_18.0-Ranked_1323_%2F_8784-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
-  <img src="https://img.shields.io/badge/IEEE-Student_Branch_Member-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code_Academy-Member-f59e0b?style=for-the-badge&logo=codecademy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Connect_360-Ramallah-22c55e?style=for-the-badge&logo=handshake&logoColor=white" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<!-- ============================ STATS ============================ -->
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hosamtarde&hide_border=true&background=0F172A&ring=A855F7&fire=0EA5E9&currStreakLabel=A855F7&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
+  <img src="https://streak-stats.demolab.com?user=Hosamtarde&hide_border=true&background=0D1117&ring=6366F1&fire=0EA5E9&currStreakLabel=6366F1&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 </p>
 
 <p align="center">
@@ -272,11 +64,6 @@ async refresh(userId: string, token: string) {
   </picture>
 </p>
 
-<!-- ============================ FOOTER ============================ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Have+a+backend+that+needs+building%3F;Or+a+team+that+needs+a+hand%3F;Let's+talk+%F0%9F%93%AB+tardehosam%40gmail.com" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0ea5e9&height=120&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=90&section=footer" width="100%" />
 </p>
