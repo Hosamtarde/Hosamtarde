@@ -54,10 +54,6 @@ HR platform for SMEs covering attendance, leave requests, performance, and payro
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hosamtarde&hide_border=true&background=0D1117&ring=6366F1&fire=0EA5E9&currStreakLabel=6366F1&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hosamtarde/Hosamtarde/output/github-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/Hosamtarde/Hosamtarde/output/github-snake.svg" alt="snake animation" />
