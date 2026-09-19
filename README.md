@@ -15,7 +15,7 @@
 
 ---
 
-### 👋 About M
+### 👋 About Me
 
 Backend Developer from **Hebron, Palestine**, currently a **Backend Developer Intern at Wahj**.
 I build REST APIs with **NestJS, TypeScript, and PostgreSQL**, with a focus on clean architecture, secure authentication, and data that stays consistent under real-world load.
