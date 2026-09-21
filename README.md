@@ -15,7 +15,7 @@
 
 ---
 
-### 👋 About س
+### 👋 Aboutس
 
 
 Backend Developer from **Hebron, Palestine**, currently a **Backend Developer Intern at Wahj**.
