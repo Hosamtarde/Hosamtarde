@@ -21,7 +21,7 @@
 Backend Developer from **Hebron, Palestine**, currently a **Backend Developer Intern at Wahj**.
 I build REST APIs with **NestJS, TypeScript, and PostgreSQL**, with a focus on clean architecture, secure authentication, and data that stays consistent under real-world load.
 
-- 💼 Backend Intern @ **Wahj** — NestJS, Prisma, PostgreSQLs
+- 💼 Backend Intern @ **Wahj** — NestJS, Prisma, PostgreSQL
 - 🎓 Computer Science — Palestine Polytechnic University
 - 🏆 IEEE-Xtreme 18.0 — ranked 1323 / 8,784
 - 🎯 Open to junior backend roles
