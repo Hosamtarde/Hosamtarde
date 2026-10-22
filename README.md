@@ -14,7 +14,7 @@
 </p>
 
 ---
-### 👋 About meث
+### 👋 About me
 
 
 
