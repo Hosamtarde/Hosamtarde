@@ -28,7 +28,7 @@ I build REST APIs with **NestJS, TypeScript, and PostgreSQL**, with a focus on c
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack .
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,postgres,mysql,prisma,docker,git,postman,php&theme=dark" />
